@@ -2,8 +2,8 @@
 
 ## Components
 
-- MHabits Component
-- MPhysics Component
-- MSpeed Component
-- MAcceleration Component
-- MWall Component
+[x] MHabits Component (needs improvement)
+[x] MPhysics Component (needs improvement)
+[ ] MSpeed Component (currently work in process)
+[ ] MAcceleration Component (not started)
+[ ] MWall Component (not started)
